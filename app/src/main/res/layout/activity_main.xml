@@ -82,6 +82,9 @@
         android:background="@color/design_default_color_primary_dark"
         android:orientation="vertical"
         >
-    </LinearLayout>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+/>    </LinearLayout>
 
 </LinearLayout>
